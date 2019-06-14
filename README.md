@@ -1,5 +1,5 @@
 # DOOM-FIRE-PURE-JAVASCRIPT
 
-Algorithm that implements fire doom game with pure JavaScript.
+Algoritmo que implementa o fogo do jogo doom com JavaScript puro.
 
-Link of the video through which it was possible to make the algorithm: https://www.youtube.com/watch?v=fxm8cadCqbs
+Link do vídeo no qual foi possível fazer o algoritmo: https://www.youtube.com/watch?v=fxm8cadCqbs
